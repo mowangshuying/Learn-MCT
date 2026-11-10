@@ -1,2 +1,5 @@
 add_executable(Nullptr Nullptr.cpp)
 add_executable(ConstExpr ConstExpr.cpp)
+add_executable(IfSwitch IfSwitch.cpp)
+add_executable(InitializerList InitializerList.cpp)
+add_executable(StructuredBindings StructuredBindings.cpp)
