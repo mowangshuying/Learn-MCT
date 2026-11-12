@@ -8,3 +8,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(TowardsModernCpp)
 add_subdirectory(LanguageUsabilityEnhancements)
+add_subdirectory(LanguageRuntimeEnhancements)
