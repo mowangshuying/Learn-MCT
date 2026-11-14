@@ -1,0 +1,6 @@
+add_executable(LinearContainer LinearContainer.cpp)
+add_executable(UnorderedContainer UnorderedContainer.cpp)
+add_executable(Tuple Tuple.cpp)
+add_executable(StringView StringView.cpp)
+add_executable(Byte Byte.cpp)
+add_executable(EnhancementsToAssociativeContainers EnhancementsToAssociativeContainers.cpp)
